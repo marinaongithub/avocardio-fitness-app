@@ -2,7 +2,7 @@ import React from 'react'
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal'
-import Card from '@mui/material/Card';
+// import Card from '@mui/material/Card';
 import CardMedia from '@mui/material/CardMedia';
 
 function GifModal({open, handleClose, image, title, equipment, target} ) {

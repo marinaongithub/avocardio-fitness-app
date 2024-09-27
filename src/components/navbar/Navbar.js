@@ -11,12 +11,12 @@ import {
   Divider,
   IconButton,
   useMediaQuery,
-  Box,
+  // Box,
   Stack,
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import { Link } from "react-router-dom";
-import About from "./pages/About";
+// import About from "./pages/About";
 import logo from "../Image/Avocardio.png";
 
 const Navbar = () => {

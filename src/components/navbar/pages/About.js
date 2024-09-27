@@ -42,17 +42,17 @@ const About = ({ title }) => {
   
   
 
-  const headingStyle = {
-    fontSize: '36px',
-    fontWeight: 'bold',
-    marginBottom: '20px',
-    color: '#222'
-  };
+  // const headingStyle = {
+  //   fontSize: '36px',
+  //   fontWeight: 'bold',
+  //   marginBottom: '20px',
+  //   color: '#222'
+  // };
 
-  const paragraphStyle = {
-    marginBottom: '20px',
-    lineHeight: '1.5'
-  };
+  // const paragraphStyle = {
+  //   marginBottom: '20px',
+  //   lineHeight: '1.5'
+  // };
 
   return (
     <div style={containerStyle}>
