@@ -11,7 +11,7 @@ console.log("Which resource are we using?", URL);
 // This is just so we do not need to repeat the full headers every time.
 const config = {
   headers: {
-    "X-RapidAPI-Key": "f6894131afmshd4f00db74ae6c7fp108c0ejsn5d663a0ec655",
+    "X-RapidAPI-Key": "96063677a3mshdd737efbef9115cp1ea757jsn1b7fecb77547",
     "X-RapidAPI-Host": "exercisedb.p.rapidapi.com",
   },
 };
